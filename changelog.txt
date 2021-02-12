@@ -85,3 +85,28 @@ Version 0.0.3.2
 
 - Fix shadow flickering
 
+Version 0.0.3.3
+
+- Added text to anchor panel 
+- Update PostProcess to the newer version (10% faster)
+
+Version 0.0.3.4 
+
+- Adjust acceleration time 
+
+Version 0.0.3.7
+
+- You are now able to move panels and load them to the position you left them after restart the game 
+
+Version 0.0.4.0
+
+- Individual rudder controll
+- Major changes in the ship behaviour in low speed 
+
+Version 0.0.4.1
+
+- Fix flag transperancy
+
+Version 0.0.4.2
+
+- Added Mooring Test panel 
